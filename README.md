@@ -40,3 +40,6 @@ Features required are as follows:
 * Casualities
 * number of conflicts (in the year under review)
 
+## Data Sources being explored:
+1. [World Bank Group Data Bank: for socio-politico-economic data](https://databank.worldbank.org/)
+2. [ACLED: for conflict data](https://acleddata.com/curated-data-files/#aggregated)
