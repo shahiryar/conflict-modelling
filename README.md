@@ -1,5 +1,5 @@
 # conflict-modelling
-The objective of this project is to develop a predictive model using Support Vector Machines (SVM) to determine the likelihood of conflicts or civil unrest in a specific region or country. By analyzing historical data and various socio-economic, political, and demographic factors, the model aims to provide early warning indicators and insights that can help policymakers and organizations proactively address potential conflicts.
+The objective of this project is to develop a predictive model to determine the likelihood of conflicts or civil unrest in a specific region or country. By analyzing historical data and various socio-economic, political, and demographic factors, the model aims to provide early warning indicators and insights that can help policymakers and organizations proactively address potential conflicts.
 # Currently, Gathering data that will help buld this model
 Features required are as follows:
 > Socio-Economic Indicator
