@@ -43,3 +43,4 @@ Features required are as follows:
 ## Data Sources being explored:
 1. [World Bank Group Data Bank: for socio-politico-economic data](https://databank.worldbank.org/)
 2. [ACLED: for conflict data](https://acleddata.com/curated-data-files/#aggregated)
+3. [Uppsala Conflict Data Program, Dept of Peace and Conflict](https://ucdp.uu.se/)
