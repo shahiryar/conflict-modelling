@@ -10,6 +10,8 @@ By analyzing historical data and various socio-economic, political, and demograp
 the model aims to provide early warning indicators and insights that can help policymakers and organizations
 proactively address potential conflicts.
 
+
+
 ## Motivation
 The cost associated with the conflicts are substantial. Therefore, it is important to use creative ways to look at conflicts in order to not just understand it but to model it, address the root causes, and control conflicts even before they become violent. My country, has been under constant pressure of political conflicts and violence. This model is an attempt to model conflict generally and uncover the underlying socio-economic factors.
 
